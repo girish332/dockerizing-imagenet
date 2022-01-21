@@ -1,1 +1,1 @@
-# dockerizing-imagenet
+# dockerizing-imagenet container
